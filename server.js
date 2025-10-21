@@ -6,8 +6,8 @@ app.use(express.json());
 
 // login no MEGA
 const storage = new Storage({
-  email: "SEU_EMAIL_MEGA",
-  password: "SUA_SENHA_MEGA"
+  email: "zdarkmail2@gmail.com",
+  password: "Morph7eus@"
 });
 
 await storage.ready;
