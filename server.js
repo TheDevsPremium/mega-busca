@@ -9,7 +9,7 @@ app.use(express.json());
 
 // ---------- CREDENCIAIS (já inseridas conforme pedido) ----------
 const MEGA_EMAIL = "zdarkmail2@gmail.com";
-const MEGA_PASS = "Morph7eus";
+const MEGA_PASS = "Morph7eus@";
 // ------------------ fim credenciais --------------------------------
 
 // Cria Storage com autenticação (acesso à sua conta MEGA)
